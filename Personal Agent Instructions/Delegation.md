@@ -11,7 +11,7 @@ This file says how far an agent can go on its own for each kind of task. It sets
 | 1. Just do it | Acts with no message. | All of it. | A mistake goes unnoticed until it matters. | Private, free, easy-to-undo work nobody else sees: research, reminders, filing. |
 | 2. Do it and tell me | Acts, then lists it in the daily check-in. | Almost all of it; a glance at the check-in. | You hear after the fact, so it needs an easy undo. | Routine, reversible changes to your own things: calendar holds, lifeos updates, email filing. |
 | 3. Draft for my OK | Prepares everything to the last tap, then waits for one yes. | Most of it; one tap. | Low. You become the bottleneck when you're busy. | Anything that speaks for you, spends money or reaches other people. |
-| 4. Ask me first | Checks before starting, because the choice itself is yours. | Little. | Lowest, and slowest. | Judgment calls, sensitive topics, co-parent matters, deleting or moving your files. |
+| 4. Ask me first | Checks before starting, because the choice itself is yours. | Little. | Lowest, and slowest. | Judgment calls, sensitive topics, matters involving the other parent or guardian, deleting or moving your files. |
 | 5. Never | Won't do it, even when asked. | None. | None. | Card numbers, passwords or ID numbers in lifeos; trades; moving money between accounts. |
 
 **How to choose.** Moving a weekly chore up a level saves the most time. One-off, expensive, public or hard-to-undo tasks are worth keeping at 3 or 4. A good habit: start one level lower than feels right, and move a row up once agents have handled it well a few times.
@@ -50,7 +50,7 @@ This file says how far an agent can go on its own for each kind of task. It sets
 | Summarize what needs a reply | 1 | | Only reaches you. |
 | Reply to a business (store, school office, customer service) | 3 | | Your rule: no contact without your OK ([Preferences](Preferences.md#working-together)). |
 | Reply to a friend or family member | 3 | | Speaks as you. |
-| Message the co-parents | 4 | | Sensitive. |
+| Message the other parent or guardian | 4 | | Sensitive. |
 
 ### Shopping, food and household stocking
 

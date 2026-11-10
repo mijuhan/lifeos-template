@@ -58,7 +58,7 @@ Write recipes in an ingredient-to-step chart: quantities and ingredients in left
 
 - School calendar: [which grades, groups and events to flag; which to skip]. Flag early dismissals and pickup changes.
 - Tell me promptly about kids' activity cancellations or time changes, because pickup changes. (Example)
-- When emailing the kids' school, cc [co-parents or others] ([see "my coparents" in People/terms.csv](../People/terms.csv)). (Example)
+- When emailing the kids' school, cc [the other parent or guardian, or others] ([see "my kids' other parent" in People/terms.csv](../People/terms.csv)). (Example)
 - School portraits: show me the gallery, let me pick, buy only after approval, file the originals in [your photo folder]. (Example)
 
 ## Boundaries

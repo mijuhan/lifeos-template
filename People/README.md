@@ -16,7 +16,7 @@ Everyone in [Your name]'s life, as CSV files. Each file has one made-up example 
 | providers.csv | One business that serves the family or home: doctor, dentist, camp, plumber, HVAC and so on |
 | schools.csv | One school |
 | enrollments.csv | One child/school/year enrollment |
-| terms.csv | One member of a named group or term you use (e.g. "my coparents", "my kids") |
+| terms.csv | One member of a named group or term you use (e.g. "my kids' other parent", "my kids") |
 | sources.csv | One source description, referenced by source_ref |
 | review_needed.csv | One unresolved question |
 
