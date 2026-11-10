@@ -1,0 +1,2 @@
+gift_id,person_id,item,occasion,occasion_year,status,product_url,budget,actual_cost,purchased_on,given_on,notes,source_ref
+sam-example-gift-1,sam-example,Space-themed LEGO set,birthday,2027,wanted,,50,,,,Made-up example row. Replace it or delete it.,example

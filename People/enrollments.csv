@@ -1,0 +1,2 @@
+enrollment_id,person_id,school_id,school_year,grade,class_name,teacher_person_id,start_date,end_date,pickup_notes,dropoff_notes,source_ref
+sam-example-2026-27,sam-example,example-elementary,2026-27,1,,,,,Pickup at 3pm by the side gate. (Made-up example row.),,example

@@ -1,0 +1,2 @@
+activity_id,person_id,name,kind,provider_id,teacher_person_id,status,schedule,season_or_dates,registration_opens_on,registration_url,notes,source_ref,last_confirmed_on
+sam-example-swim,sam-example,Swim lessons,lesson,,,active,Wednesdays 4pm,Fall 2026,2026-08-01,,Made-up example row. Replace it or delete it.,example,2026-01-01

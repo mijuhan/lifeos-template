@@ -1,0 +1,2 @@
+provider_id,name,kind,serves,phone,email,website,address,contact_person_id,notes,source_ref,last_confirmed_on
+example-pediatrics,Example Pediatrics,pediatrician,sam-example,555-0100,,,,,Made-up example row. Replace it or delete it.,example,2026-01-01

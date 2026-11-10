@@ -1,0 +1,3 @@
+person_id,name,preferred_name,relationship_to_me,is_close_friend,birth_year,birth_month,birth_day,life_status,death_date,birthday_reminder,birthday_gift,notes
+me,[Your name],,self,,,,,living,,unknown,unknown,Your own row. Keep the ID "me" and fill in the rest.
+sam-example,Sam Example,Sammy,child,,2019,04,12,living,,true,true,Made-up example row. Replace it or delete it.

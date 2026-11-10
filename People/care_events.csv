@@ -1,0 +1,2 @@
+event_id,person_id,event_type,date,status,description,source_ref
+sam-example-care-1,sam-example,well_child_checkup,2026-04-02,completed_user_reported,Yearly checkup at Example Pediatrics. Made-up example row.,example

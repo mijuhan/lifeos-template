@@ -1,0 +1,2 @@
+rhythm_id,domain,person_id,school_id,action,cadence_type,period,target_count,anchor_date,mode,enabled,next_due_on,automation_status,automation_ref,source_ref,provider_id,done_when
+care-checkup-sam-example,care,sam-example,,Yearly checkup,rolling,year,1,,nudge,true,2027-04-02,not_configured,,example,example-pediatrics,A visit is logged in care_events.csv. (Made-up example row.)

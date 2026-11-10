@@ -1,0 +1,2 @@
+person_id,name,preferred_name,relationship_to_me,is_close_friend,birth_year,birth_month,birth_day,life_status,death_date,birthday_reminder,birthday_gift,notes
+jordan-example,Jordan Example,Jo,college friend,true,,09,03,living,,true,unknown,Made-up example row. Replace it or delete it.
